@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=shaoshuai904&show_icons=true&include_all_commits=true&theme=default&hide=["contribs"]&hide_title=true' /> 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=shaoshuai904&show_icons=true&count_private=true&hide=["contribs"]&hide_title=true' /> 
 
 ### Hello World! 👋
 
