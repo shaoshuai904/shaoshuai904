@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=shaoshuai904&show_icons=true&count_private=true&hide=["contribs"]&hide_title=true' /> 
 
-### Hello World! 👋
+### Hello! 👋
 
 Hi, I'm [MapleShao](https://www.shaoshuai904.com), a Mobile developer.
 
