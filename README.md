@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 
-Hi, I'm [MapleShao](https://www.shaoshuai904.com), a Mobile developer.
+I'm [MapleShao](https://www.shaoshuai904.com), a Mobile developer.
 
 💬 Ask me about anything [here](https://github.com/shaoshuai904/shaoshuai904/issues).
 
