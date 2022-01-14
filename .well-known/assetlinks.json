@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.maple.ishare",
+               "sha256_cert_fingerprints": ["9ab2bd7510e8eead3c61b060a47db853bc5aa0fbce60a204118fdca966bcf674"] }
+}]
